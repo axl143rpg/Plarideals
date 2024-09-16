@@ -1,0 +1,13 @@
+.task-container {
+    margin: 20px;
+}
+
+.task-item {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.task-checkbox {
+    margin-right: 10px;
+}
